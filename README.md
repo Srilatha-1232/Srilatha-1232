@@ -61,7 +61,7 @@ I love building logical solutions and creative digital content.
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRILATHA_USERNAME&theme=dark&background=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srilatha-1232&theme=dark&background=000000" />
 </p>
 
 ---
@@ -69,6 +69,6 @@ I love building logical solutions and creative digital content.
 <h3 align="center">📊 GitHub Overview</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRILATHA_USERNAME&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRILATHA_USERNAME&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srilatha-1232&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srilatha-1232&layout=compact&theme=dark" />
 </p>
