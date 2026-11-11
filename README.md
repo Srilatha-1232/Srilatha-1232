@@ -24,6 +24,7 @@ I love building logical solutions and creative digital content.
 
 <h3 align="center">🌐 Connect With Me</h3>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/srilatha-mullamuri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -33,10 +34,11 @@ I love building logical solutions and creative digital content.
     <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://sri-1232.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=for-the-badge&logo=google-chrome" alt="Portfolio">
   </a>
 </p>
+
 
 ---
 
