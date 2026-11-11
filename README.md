@@ -28,12 +28,14 @@ I love building logical solutions and creative digital content.
   <a href="https://www.linkedin.com/in/srilatha-mullamuri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-<a href="GITHUB_LINK_HERE">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="VIDEO_EDITING_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+
+  <a href="https://github.com/Srilatha-1232" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-purple?style=for-the-badge&logo=google-chrome" alt="Portfolio">
+  </a>
 </p>
 
 ---
