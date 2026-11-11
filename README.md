@@ -25,7 +25,7 @@ I love building logical solutions and creative digital content.
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-<a href="LINKEDIN_LINK_HERE">
+<a href="[LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/srilatha-mullamuri/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="GITHUB_LINK_HERE">
